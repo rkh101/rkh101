@@ -14,7 +14,7 @@ Active Directory, network security, and technical security documentation.
 - Exploring Windows, Linux, web applications, and Active Directory environments
 - Interested in red teaming, exploit development, reverse engineering, and threat analysis
 
-  ## Focus Areas
+  ## Things I like
 
 - Offensive Security
 - Penetration Testing
